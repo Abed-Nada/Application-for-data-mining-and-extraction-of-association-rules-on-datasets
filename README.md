@@ -12,6 +12,10 @@ In our application, we showcase the significance of these rules by applying them
 
 Our application features a user-friendly Graphical User Interface (GUI) to facilitate easy interaction and exploration of association rules and their implications.
 
+<p align="center">
+  <img width="600"; src="PRES DOC.png">
+</p>
+
 ## Collaborators
 - [@NaaaaaaaaaaDaa](https://github.com/NaaaaaaaaaaDaa)
 - [@RB-Younes](https://github.com/RB-Younes)
